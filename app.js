@@ -1,1 +1,2 @@
-alert"cibersecurity" class="alert">
+alert("cibersecurity is important");
+import { encrypt, decrypt } from './crypto.js';
